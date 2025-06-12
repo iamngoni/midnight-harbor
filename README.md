@@ -1,6 +1,6 @@
-# Emerald Night
+# Midnight Harbor
 
-This theme is perfect for those who want a sleek and professional look for their editor.
+A sophisticated dark theme inspired by the tranquil depths of midnight waters. Midnight Harbor combines deep blues, subtle purples, and crisp whites to create an elegant coding environment that reduces eye strain during long development sessions. Perfect for developers who appreciate a modern, professional aesthetic with carefully balanced contrast and thoughtfully chosen accent colors.
 
 ![Theme preview](./assets/preview.png)
 
